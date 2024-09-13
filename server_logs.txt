@@ -1,0 +1,30 @@
+Log message 1 from client
+Log message 2 from client
+Log message 3 from client
+Log message 4 from client
+Log message 5 from client
+2024-09-13 11:57:55,374 - INFO - Log message 1 from client
+2024-09-13 11:57:56,376 - INFO - Log message 2 from client
+2024-09-13 11:57:57,377 - INFO - Log message 3 from client
+2024-09-13 11:57:58,377 - INFO - Log message 4 from client
+2024-09-13 11:57:59,378 - INFO - Log message 5 from client
+2024-09-13 11:59:09,265 - INFO - Log message 1 from client
+2024-09-13 11:59:09,265 - INFO - Log message 1 from client
+2024-09-13 11:59:10,266 - INFO - Log message 2 from client
+2024-09-13 11:59:10,266 - INFO - Log message 2 from client
+2024-09-13 11:59:11,268 - INFO - Log message 3 from client
+2024-09-13 11:59:11,268 - INFO - Log message 3 from client
+2024-09-13 11:59:12,268 - INFO - Log message 4 from client
+2024-09-13 11:59:12,268 - INFO - Log message 4 from client
+2024-09-13 11:59:13,269 - INFO - Log message 5 from client
+2024-09-13 11:59:13,269 - INFO - Log message 5 from client
+2024-09-13 12:05:42,630 - INFO - Log message 1 from application
+2024-09-13 12:05:42,630 - INFO - Log message 1 from application
+2024-09-13 12:05:43,632 - INFO - Log message 2 from application
+2024-09-13 12:05:43,632 - INFO - Log message 2 from application
+2024-09-13 12:05:44,633 - INFO - Log message 3 from application
+2024-09-13 12:05:44,633 - INFO - Log message 3 from application
+2024-09-13 12:05:45,634 - INFO - Log message 4 from application
+2024-09-13 12:05:45,634 - INFO - Log message 4 from application
+2024-09-13 12:05:46,635 - INFO - Log message 5 from application
+2024-09-13 12:05:46,635 - INFO - Log message 5 from application
